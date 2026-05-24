@@ -1,3 +1,3 @@
 # сюда наставник впишет свои данные
-BASE_URL = "https://yougile.com"  # URL
-TOKEN = #ТОКЕН
+BASE_URL = "https://yougile.com"
+TOKEN = "твой_токен"
